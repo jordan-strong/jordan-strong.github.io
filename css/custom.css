@@ -1,0 +1,382 @@
+@font-face
+{
+    font-family: 'Nike';
+    src: url(../fonts/Nike.otf);
+}
+
+#nav ul li a:hover{
+    text-decoration: line-through;
+    font-size: 12pt;
+}
+
+.row .work:hover h2{
+    text-decoration: line-through;
+    font-size: 12pt;
+}
+
+.row .about:hover h2{
+    text-decoration: line-through;
+    font-size: 12pt;
+}
+
+.row .contact:hover h2{
+    text-decoration: line-through;
+    font-size: 12pt;
+}
+
+.row .github:hover h2{
+    text-decoration: line-through;
+    font-size: 12pt;
+}
+
+.hero{
+    position: relative;
+}
+
+.hero img{
+    width: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+    max-height: 680px;
+}
+
+.resume{
+    text-align: left;
+    color: lightslategrey;
+    font-family: 'Nike', futura;
+}
+
+.resume ul{
+    text-align: left;
+}
+
+.hero h4{
+    
+    /* code for centering text in a div*/
+    position: absolute;
+    top: 150px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 0;
+    margin: auto;
+    /* code for centering text in a div*/
+    
+    font-size: 10pt;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Nike', futura;
+}
+
+.hero h1{
+    
+    /* code for centering text in a div*/
+    position: absolute;
+    top: 50px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 0%;
+    margin: auto;
+    /* code for centering text in a div*/
+    
+    font-size: 30pt;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Nike', futura;
+}
+
+.header{
+    position: fixed;
+    width: 100%;
+    background-color: white;
+
+}
+
+#nav {
+    height: 40px;
+    z-index: 100;
+}
+
+#nav a{
+    /* code for centering text in a div*/
+    position: absolute;
+    top: 10px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 20px;
+    margin: auto;
+    /* code for centering text in a div*/
+    
+}
+
+.work{
+    background-color: #27ae60;
+    height: 200px;
+    width: 100%;  
+    margin-top: 30px;
+    color: whitesmoke;
+}
+
+.row h2{
+    /* code for centering text in a div*/
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 0%;
+    margin: auto;
+    text-align: center;
+    /* code for centering text in a div*/
+    
+    color: whitesmoke;
+    font-family: 'Nike', futura;
+}
+
+.about{
+    background-color: #3498db;
+    height: 200px;
+    width: 100%;  
+    margin-top: 30px;
+    color: whitesmoke;
+}
+
+.contact{
+    background-color: #9b59b6;
+    height: 200px;
+    width: 100%;  
+    margin-top: 30px;
+    color: whitesmoke;
+}
+
+.github{
+    background-color: #e74c3c;
+    height: 200px;
+    width: 100%;  
+    margin-top: 30px;
+    color: whitesmoke;
+}
+
+.header{
+    position: fixed;
+    z-index: 300;
+    background-color: white;
+    width: 100%;
+    padding: 0;
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+.footer{
+    height: 30px;
+}
+
+#nav ul{
+    list-style-type: none;
+}
+
+#nav li{
+    top: 10px;
+    text-align: left;
+}
+
+.row img{
+    margin-top: 30px;
+    height: 200px;
+    width: 100%;
+}
+.design img{
+    height: 100%
+}
+
+.education{
+    background-color: #34495e;
+    height: 200px;
+    width: 100%;  
+    color: whitesmoke;
+    margin-bottom: 30px;
+}
+
+.education a{
+    height: 100%;
+    width: 100%;
+}
+
+.education h2{
+    /* code for centering text in a div*/
+    position: absolute;
+    top: 20px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 90%;
+    height: 150px;
+    margin: auto;
+    text-align: center;
+    /* code for centering text in a div*/
+    
+    color: whitesmoke;
+    font-family: 'Nike', futura;
+}
+
+.education h3{
+    /* code for centering text in a div*/
+    position: absolute;
+    top: 50px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 0;
+    margin: auto;
+    text-align: center;
+    /* code for centering text in a div*/
+    
+    color: whitesmoke;
+    font-family: 'Nike', futura;
+}
+
+.experience{
+    background-color: #9b59b6;
+    height: 200px;
+    width: 100%;  
+    color: whitesmoke;
+    margin-bottom: 30px;
+}
+
+.experience h2{
+    /* code for centering text in a div*/
+    position: absolute;
+    top: 20px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 90%;
+    height: 150px;
+    margin: auto;
+    text-align: center;
+    /* code for centering text in a div*/
+    
+    color: whitesmoke;
+    font-family: 'Nike', futura;
+}
+
+.experience h3{
+    /* code for centering text in a div*/
+    position: absolute;
+    top: 20px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 0;
+    margin: auto;
+    text-align: center;
+    /* code for centering text in a div*/
+    
+    color: whitesmoke;
+    font-family: 'Nike', futura;
+}
+
+
+.skills{
+    color: lightslategrey;
+    font-family: 'Nike', futura;
+    margin-top: -30;
+}
+
+.skills p{
+    color: whitesmoke;
+    padding-top: 3px;
+    padding-right: 10px;
+    text-align: right;
+}
+
+#html
+{
+    height: 25px;
+    background-color: #27ae60;
+    margin-top: 10px;
+    width: 92%;
+}
+
+#css
+{
+    height: 25px;
+    background-color: #27ae60;
+    margin-top: 10px;
+    width: 92%;
+}
+
+#js
+{
+    height: 25px;
+    background-color: #27ae60;
+    margin-top: 10px;
+    width: 80%;
+}
+
+#java
+{
+    height: 25px;
+    background-color: #27ae60;
+    margin-top: 10px;
+    width: 75%;
+}
+
+#c
+{
+    height: 25px;
+    background-color: #27ae60;
+    margin-top: 10px;
+    width: 75%;
+}
+
+#sql
+{
+    height: 25px;
+    background-color: #27ae60;
+    margin-top: 10px;
+    width: 75%;
+}
+
+#photoshop
+{
+    height: 25px;
+    background-color: #3498db;
+    margin-top: 10px;
+    width: 92%;
+}
+
+#illustrator
+{
+    height: 25px;
+    background-color: #3498db;
+    margin-top: 10px;
+    width: 90%;
+}
+
+#indesign
+{
+    height: 25px;
+    background-color: #3498db;
+    margin-top: 10px;
+    width: 65%;
+}
+
+#leadership
+{
+    height: 25px;
+    background-color: #e74c3c;
+    margin-top: 10px;
+    width: 92%;
+}
