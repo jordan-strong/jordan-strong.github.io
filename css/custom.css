@@ -4,7 +4,7 @@
     src: url(../fonts/Nike.otf);
 }
 
-#nav ul li a:hover{
+.navbar ul li a:hover{
     text-decoration: line-through;
     font-size: 12pt;
 }
@@ -51,7 +51,7 @@
 }
 
 .hero h4{
-    
+
     /* code for centering text in a div*/
     position: absolute;
     top: 150px;
@@ -62,7 +62,7 @@
     height: 0;
     margin: auto;
     /* code for centering text in a div*/
-    
+
     font-size: 10pt;
     text-align: center;
     color: whitesmoke;
@@ -70,7 +70,7 @@
 }
 
 .hero h1{
-    
+
     /* code for centering text in a div*/
     position: absolute;
     top: 50px;
@@ -81,7 +81,7 @@
     height: 0%;
     margin: auto;
     /* code for centering text in a div*/
-    
+
     font-size: 30pt;
     text-align: center;
     color: whitesmoke;
@@ -111,13 +111,13 @@
     height: 20px;
     margin: auto;
     /* code for centering text in a div*/
-    
+
 }
 
 .work{
     background-color: #27ae60;
     height: 200px;
-    width: 100%;  
+    width: 100%;
     margin-top: 30px;
     color: whitesmoke;
 }
@@ -134,7 +134,7 @@
     margin: auto;
     text-align: center;
     /* code for centering text in a div*/
-    
+
     color: whitesmoke;
     font-family: 'Nike', futura;
 }
@@ -142,7 +142,7 @@
 .about{
     background-color: #3498db;
     height: 200px;
-    width: 100%;  
+    width: 100%;
     margin-top: 30px;
     color: whitesmoke;
 }
@@ -150,7 +150,7 @@
 .contact{
     background-color: #9b59b6;
     height: 200px;
-    width: 100%;  
+    width: 100%;
     margin-top: 30px;
     color: whitesmoke;
 }
@@ -167,7 +167,7 @@
     margin: auto;
     text-align: center;
     /* code for centering text in a div*/
-    
+
     color: whitesmoke;
     font-family: 'Nike', futura;
     font-size: 24pt
@@ -176,7 +176,7 @@
 .github{
     background-color: #e74c3c;
     height: 200px;
-    width: 100%;  
+    width: 100%;
     margin-top: 30px;
     color: whitesmoke;
 }
@@ -219,7 +219,7 @@ ul{
 .education{
     background-color: #34495e;
     height: 200px;
-    width: 100%;  
+    width: 100%;
     color: whitesmoke;
     margin-bottom: 30px;
 }
@@ -241,7 +241,7 @@ ul{
     margin: auto;
     text-align: center;
     /* code for centering text in a div*/
-    
+
     color: whitesmoke;
     font-family: 'Nike', futura;
 }
@@ -258,7 +258,7 @@ ul{
     margin: auto;
     text-align: center;
     /* code for centering text in a div*/
-    
+
     color: whitesmoke;
     font-family: 'Nike', futura;
 }
@@ -266,7 +266,7 @@ ul{
 .experience{
     background-color: #9b59b6;
     height: 200px;
-    width: 100%;  
+    width: 100%;
     color: whitesmoke;
     margin-bottom: 30px;
 }
@@ -283,7 +283,7 @@ ul{
     margin: auto;
     text-align: center;
     /* code for centering text in a div*/
-    
+
     color: whitesmoke;
     font-family: 'Nike', futura;
 }
@@ -300,7 +300,7 @@ ul{
     margin: auto;
     text-align: center;
     /* code for centering text in a div*/
-    
+
     color: whitesmoke;
     font-family: 'Nike', futura;
 }
